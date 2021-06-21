@@ -1,12 +1,4 @@
 /*
-CS181 - 9383 – Fall 2019
-
-Final Game Project
-
-Steven Awakem	
-
-12/6/19
-
 This is a game that I made it is similar to Oregon Trail, but this one is based off my DnD game that I first played with my friends.
 You could enter a name and choose to either fight the enemy, runaway, or give them money and you can keep hitting each other until 
 someone dies and their is a story to the game.
